@@ -19,7 +19,7 @@ A Python-based navigation tool that calculates the shortest path between 10 famo
 
 2.  **Run the Web App (Recommended)**:
     ```bash
-    streamlit run uber_style_routing/app.py
+    https://uber-style-routing-system-fqwebjnfxft7b9cozhqcz3.streamlit.app/
     ```
 
 3.  **Run the CLI (Optional)**:
